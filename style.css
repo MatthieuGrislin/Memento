@@ -1,6 +1,17 @@
 body{
     background-color: grey;
+    text-align: center;
+    font-size: 17px;
 }
 ul li{
     list-style: none;
+}
+ol li{
+    text-align: left;
+}
+.paragras{
+    font-weight: bold;
+}
+h2{
+    text-decoration: underline;
 }
