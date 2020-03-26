@@ -8,6 +8,7 @@ ul li{
 }
 ol li{
     text-align: left;
+    border: 1px black;
 }
 .paragras{
     font-weight: bold;
